@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 毛珑珑</h1>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 181 Contributions in the Year 2021
+> 🏆 189 Contributions in the Year 2021
  > 
 > 📦 253.1 kB Used in Github's Storage 
  > 
