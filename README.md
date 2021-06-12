@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 毛珑珑</h1>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My Github Data** 
 
@@ -85,5 +85,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaoLongLong/MaoLongLong/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
