@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm 毛珑珑</h1>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 213 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 253.6 kB Used in Github's Storage 
+> 📦 253.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,5 +85,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaoLongLong/MaoLongLong/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
