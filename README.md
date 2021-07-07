@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm 毛珑珑</h1>
 
+我叫陈劭珑，毛珑珑是高中同桌给我起的外号，或者身边的朋友更亲切点一般直接叫我珑珑 :joy:
+
+土生土长的福建人（但是不会说福建方言），跨越两千多公里来了辽宁上大学，当初可能仅仅是想玩电脑才报了计算机专业，没想到自己对这个专业还是有点兴趣的。
+
+上大学前喜欢跑步，骑自行车，但是在大学校园里总感觉没时间花在这些兴趣爱好上（可能是自己懒了）
+
+<details>
+ <summary>WakaTime</summary>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -85,3 +93,4 @@ HTML                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
+</details>
