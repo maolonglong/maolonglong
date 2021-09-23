@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 366 Contributions in the Year 2021
+> 🏆 368 Contributions in the Year 2021
  > 
-> 📦 248.6 kB Used in Github's Storage 
+> 📦 248.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,8 +19,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   35.42% 
+🌞 Morning    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+🌆 Daytime    112 commits    ████████░░░░░░░░░░░░░░░░░   35.11% 
 🌃 Evening    129 commits    ██████████░░░░░░░░░░░░░░░   40.44% 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78%
 
@@ -85,7 +85,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaoLongLong/MaoLongLong/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 </details>
