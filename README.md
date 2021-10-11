@@ -2,17 +2,17 @@
  <summary>WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 454 Contributions in the Year 2021
+> 🏆 456 Contributions in the Year 2021
  > 
 > 📦 249.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -28,13 +28,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
+Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
 Tuesday      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
 Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
 Thursday     62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
 Friday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-Sunday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
+Sunday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18%
 
 ```
 
@@ -85,7 +85,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaoLongLong/MaoLongLong/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2021
+ Last Updated on 11/10/2021
 <!--END_SECTION:waka-->
 
 </details>
