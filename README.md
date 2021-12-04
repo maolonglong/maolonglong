@@ -1,81 +1,8 @@
-<details>
- <summary>WakaTime</summary>
+<h1 align="center">Hi 👋, 我叫 陈劭珑</h1>
+<h3 align="center">一个还在努力学习的后端开发实习生</h3>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+- 👷 最近在校外实习，可能会有一段时间忙的看不了 GitHub
+- 🌱 目前主要在学习 **Golang**
 
-**🐱 My GitHub Data** 
-
-> 🏆 588 Contributions in the Year 2021
- > 
-> 📦 250.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-🌆 Daytime    151 commits    ███████████░░░░░░░░░░░░░░   44.15% 
-🌃 Evening    116 commits    ████████░░░░░░░░░░░░░░░░░   33.92% 
-🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Wednesday    70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47% 
-Thursday     54 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Saturday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       16 repos            ███████████░░░░░░░░░░░░░░   45.71% 
-Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MaoLongLong/MaoLongLong/main/charts/bar_graph.png) 
-
-
- Last Updated on 30/11/2021
-<!--END_SECTION:waka-->
-
-</details>
+<h3 align="left">那些我喜欢使用的语言和工具:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
