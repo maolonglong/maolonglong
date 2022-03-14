@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, 我叫 陈劭珑</h1>
-<h3 align="center">一个还在努力学习的后端开发实习生</h3>
 
 - 👷 最近在校外实习，可能会有一段时间忙的看不了 GitHub
 - 🌱 目前主要在学习 **Golang**
