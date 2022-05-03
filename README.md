@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maolonglong&label=Profile%20views&color=0e75b6&style=flat" alt="maolonglong" /> </p>
 
-- 🔭 I’m currently working on [Redix](https://github.com/MaoLongLong/redix)
-
 - 🌱 I’m currently learning **Go/Rust**
 
 - 📝 I regularly write articles on [https://chensl.me](https://chensl.me)
